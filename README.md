@@ -42,9 +42,9 @@ Explore the interactive dashboard here:
 
 ## 👤 Author
 **Bittu Vikash**  
-- 📊 [Tableau Public](https://public.tableau.com/views/WorldTemperature_17627931132050/Story1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)  
-- 💻 [GitHub](<ADD_GITHUB_PROFILE_LINK_HERE>)  
-- 💼 [LinkedIn](<ADD_LINKEDIN_PROFILE_LINK_HERE>)  
+- 📊 [Tableau Public](https://public.tableau.com/app/profile/bittu.vikash.3000)  
+- 💻 [GitHub](https://github.com/Bittu-Vikash)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/bittuvikash3000/)  
 
 ---
 
